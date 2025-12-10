@@ -63,14 +63,6 @@
 - 🏆 **Android Development Internship** – Unlock Velocity (2025)  
 - 🏆 **Android App Development** – Udemy (2024)  
 
----
-
-## 🔥 GitHub Analytics  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajatdagar2005&show_icons=true&theme=tokyonight&hide=issues" height="180"/>
-  <img src="https://streak-stats.demolab.com?user=rajatdagar2005&theme=tokyonight" height="180"/>
-</p>
 
 ---
 
