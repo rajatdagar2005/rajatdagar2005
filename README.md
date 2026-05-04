@@ -27,11 +27,10 @@
 
 | Project | Tech | Description | Status |
 |---------|------|-------------|--------|
-| 🌦️ **Weather App** | Kotlin, Jetpack Compose, MVVM, Retrofit | Real-time weather app with API integration, sealed classes for error handling, and clean architecture. | ✅ Done |
-| 📰 **DailyPress – News App** | Flutter, Provider, NewsAPI | Cross-platform news app with responsive UI and state management handling 1000+ articles. | ✅ Done |
-| 🌐 **Portfolio Website** | Flutter Web, Ktor, MongoDB | Dynamic portfolio deployed on Netlify with a **95+ performance score**. | ✅ Done |
-| 📝 **Wishlist App** | Kotlin, Room DB, MVVM | Offline-first CRUD app with reactive UI and **StateFlow** integration. | ✅ Done |
-
+| 📰 **DailyPress – News App** | Flutter, Provider, NewsAPI | Cross-platform news app with responsive UI, category filtering, and efficient state management handling large-scale article data. | ✅ Done |
+| 🍳 **Recipe Finder App** | Kotlin, Retrofit, MVVM | Android app to search recipes via API with clean architecture, proper error handling, and dynamic UI rendering. | ✅ Done |
+| 🔗 **GraphLink** | Kotlin, DSA, Graph Algorithms | Implementation of graph algorithms including traversal and shortest path, demonstrating strong problem-solving and data structure concepts. | ✅ Done |
+| 📊 **FinSight (In Development)** | Kotlin, Ktor, MongoDB | Finance tracking and insights platform with backend APIs, analytics, and scalable architecture (currently under development). | 🚧 In Progress |
 ---
 
 ## 🧰 Tech Stack  
